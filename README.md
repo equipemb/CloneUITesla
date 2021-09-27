@@ -1,5 +1,7 @@
-# Clone UI
+<h1 align="center">
+  Clone UI <br>
 Interface da Tesla
+</h1><br>
 
 ## Tecnologias:
 1. Componentes estilizados
@@ -18,5 +20,6 @@ Interface da Tesla
 https://trello.com/b/Gzy5m5To/clone-ui-interface-tesla
 
 
-## Referência:
-*Guilherme Rodz
+## Referências:
+[Repositório da Rocketseat](https://github.com/rocketseat-content/youtube-clone-tesla-homepage)<br>
+[Rocketseat - Homepage da Tesla com ReactJS - Youtube](https://youtu.be/Mf4Se4ZGcG8)
