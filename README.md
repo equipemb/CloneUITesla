@@ -1,20 +1,20 @@
 # CloneUITesla
 Clone UI - Interface da Tesla
 
-# Techs:
+## Techs:
 1. Componentes estilizados
 2. TypeScript
 3. React
 
-# Projeto base:
+## Projeto base:
 
 
 
-# Projeto realizado 
+## Projeto realizado 
 
-# Trello:
+## Trello:
 https://trello.com/b/Gzy5m5To/clone-ui-interface-tesla
 
 
-# Referência:
+## Referência:
 *Guilherme Rodz
