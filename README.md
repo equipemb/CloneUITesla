@@ -7,10 +7,11 @@ Clone UI - Interface da Tesla
 3. React
 
 ## Projeto base:
-<img scrc=tesla.1.png>
+<img scr=tesla.1.png>
 
 
 ## Projeto realizado 
+<img src=tesla.2.png>
 
 ## Trello:
 https://trello.com/b/Gzy5m5To/clone-ui-interface-tesla
