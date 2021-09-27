@@ -10,7 +10,7 @@ Clone UI - Interface da Tesla
 <img src=tesla.2.png>
 
 
-## Projeto realizado 
+## Projeto realizado:
 <img src=tesla.1.png>
 
 
