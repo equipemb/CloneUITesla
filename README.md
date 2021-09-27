@@ -2,9 +2,9 @@
 Clone UI - Interface da Tesla
 
 # Techs:
-*Componentes estilizados
-*TypeScript
-*React
+1. Componentes estilizados
+2. TypeScript
+3. React
 
 # Projeto base:
 
