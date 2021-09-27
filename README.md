@@ -1,7 +1,7 @@
-# CloneUITesla
-Clone UI - Interface da Tesla
+# Clone UI
+Interface da Tesla
 
-## Techs:
+## Tecnologias:
 1. Componentes estilizados
 2. TypeScript
 3. React
@@ -14,7 +14,7 @@ Clone UI - Interface da Tesla
 <img src=tesla.1.png>
 
 
-## Trello:
+## Kanban Board:
 https://trello.com/b/Gzy5m5To/clone-ui-interface-tesla
 
 
